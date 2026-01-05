@@ -6,8 +6,8 @@
 </p>
 
 <h2> 💻 My favorite tools and technologies</h2>
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=html,css,js,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp" />
   </a>
 </p>
