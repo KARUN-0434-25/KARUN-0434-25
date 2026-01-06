@@ -5,7 +5,7 @@
     <tr>
       <td align="center" style="padding: 50px 10px;">
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hello+Everyone;Welcome+To+Allian+World+👽;I+am+learning+right+now..." alt="Typing SVG" />
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hello+Everyone;Welcome+To+Allian+World;I+am+learning+right+now..." alt="Typing SVG" />
         </a>
       </td>
     </tr>
