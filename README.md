@@ -1,11 +1,10 @@
 <h1>HEY ! 🙋🏼‍♂️ <img align= "right" height="300px" width="150px" src="https://i.pinimg.com/736x/40/95/23/4095239bd1f6b650666a7f54f2a94f93.jpg"/></h1>
-
 <div align="center">
   <table background="https://i.pinimg.com/1200x/fa/25/53/fa255304e639592a03b96851eb8713b4.jpg" width="100%">
     <tr>
       <td align="center" style="padding: 50px 10px;">
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hello+Everyone;Welcome+To+Allian+World;I+am+learning+right+now..." alt="Typing SVG" />
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+To+Allian+World;I+am+learning+right+now..." alt="Typing SVG" />
         </a>
       </td>
     </tr>
