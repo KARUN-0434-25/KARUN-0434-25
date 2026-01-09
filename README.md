@@ -1,7 +1,6 @@
 <h1 style="padding-left:10px;">HEY ! 🙋🏼‍♂️ </h1>
 <div align="center">
-        <!-- <a href="https://git.io/typing-svg"> -->
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+To+Allian+World;I+am+learning+right+now..." alt="Typing SVG" />   
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=;I+am+learning+right+now..." alt="Typing SVG" />   
 </div>
 
 <br/>
