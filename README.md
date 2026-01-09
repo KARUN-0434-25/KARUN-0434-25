@@ -3,6 +3,8 @@
 </p>
 <br/>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=F7F7F7&center=true&vCenter=true&width=600&lines=WHAT+I+AM+LEARNING+%F0%9F%91%87;HTML5;CSS3;JavaScript;C%2B%2B" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp" />
 </p>
+
+
 
