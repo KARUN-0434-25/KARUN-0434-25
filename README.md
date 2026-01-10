@@ -1,4 +1,4 @@
-<h1>About ME 👋</h1>
+<h1>About Me</h1>
 
 <p><h2>Hi, I’m Arunesh 👋</h2></p>
 
