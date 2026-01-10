@@ -3,7 +3,7 @@
 <p>Hi, I’m Arunesh 👋</p>
 
 <ul>
-  <li>🎓 1st-year B.Tech CSE student.</li>
+  <li><h3>🎓 1st-year B.Tech CSE student.</h3></li>
   <li>🖥️ Exploring frontend development, with plans to dive into full-stack, blockchain, AI/ML, and Web3.</li>
   <li>🛠 Working with HTML, CSS, JavaScript, C++, and Python.</li>
   <li>🎧Podcast enthusiast — always learning something new while coding or relaxing.</li>
