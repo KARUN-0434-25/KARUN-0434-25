@@ -22,4 +22,10 @@
 
 <h1> Github Stats</h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KARUN-0434-25)](https://git.io/streak-stats)
+# Hi, I'm Sunshine 👋
+
+### 🚀 GitHub Stats
+![Sunshine's GitHub stats](https://github-readme-stats.vercel.app/api?username=KARUN-0434-25&show_icons=true&theme=radical)
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KARUN-0434-25&theme=radical)
