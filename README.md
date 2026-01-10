@@ -1,18 +1,16 @@
-<h1>Hi, I’m Arunesh 👋</h1>
+<h1>About ME 👋</h1>
 
 <p><h2>Hi, I’m Arunesh 👋</h2></p>
 
 <ul>
-  <li><h3>🎓 1st-year B.Tech CSE student.</h3></li>
-  <li><h3>🖥️ Exploring frontend development, with plans to dive into full-stack, blockchain, AI/ML, and Web3.</h3></li>
-  <li><h3>🛠 Working with HTML, CSS, JavaScript, C++, and Python.</h3></li>
-  <li><h3>🎧Podcast enthusiast — always learning something new while coding or relaxing.</h3></li>
-  <li><h3>🏏 Cricket fan — love watching the game.</h3></li>
-  <li><h3>🌱 Naturally curious, constantly experimenting and improving my skills.</h3></li>
-  <li><h3>📚Focused on building clean, practical projects that actually work.</h3></li>
+  <li><h4>🎓 1st-year B.Tech CSE student.</h4></li>
+  <li><h4>🖥️ Exploring frontend development, with plans to dive into full-stack, blockchain, AI/ML, and Web3.</h4></li>
+  <li><h4>🛠 Working with HTML, CSS, JavaScript, C++, and Python.</h4></li>
+  <li><h4>🎧Podcast enthusiast — always learning something new while coding or relaxing.</h4></li>
+  <li><h4>🏏 Cricket fan — love watching the game.</h4></li>
+  <li><h4>🌱 Naturally curious, constantly experimenting and improving my skills.</h4></li>
+  <li><h4>📚Focused on building clean, practical projects that actually work.</h4></li>
 </ul>
-
-
 
 <h1>My Skills</h1>
 
