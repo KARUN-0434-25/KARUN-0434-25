@@ -1,13 +1,18 @@
 ## About Me
+<h2>About Me</h2>
 
-Hi, I’m Arunesh 👋 
+<p>Hi, I’m Arunesh 👋</p>
 
-🎓 1st-year B.Tech CSE student
-💻 Diving into frontend development, with plans to explore full-stack, blockchain, AI/ML, and Web3.
-🛠 Building with HTML, CSS, JavaScript, C++, and Python.
-🎧 Podcast lover — always learning something new while coding or relaxing.
-🌱 Curious by nature, constantly experimenting and improving my skills.
-📚 Focused on creating clean, practical projects that actually work.
+<ul>
+  <li>🎓 1st-year B.Tech CSE student</li>
+  <li>💻 Exploring frontend development, with plans to dive into full-stack, blockchain, AI/ML, and Web3</li>
+  <li>🛠 Working with HTML, CSS, JavaScript, C++, and Python</li>
+  <li>🎧 Podcast enthusiast — always learning something new while coding or relaxing</li>
+  <li>🏏 Cricket fan — love watching the game, even if I don’t play much</li>
+  <li>🌱 Naturally curious, constantly experimenting and improving my skills</li>
+  <li>📚 Focused on building clean, practical projects that actually work</li>
+</ul>
+
 
 
 ## My Skills
