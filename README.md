@@ -3,13 +3,13 @@
 <p>Hi, I’m Arunesh 👋</p>
 
 <ul>
-  <li>🎓 1st-year B.Tech CSE student</li>
-  <li>💻 Exploring frontend development, with plans to dive into full-stack, blockchain, AI/ML, and Web3</li>
-  <li>🛠 Working with HTML, CSS, JavaScript, C++, and Python</li>
-  <li>🎧 Podcast enthusiast — always learning something new while coding or relaxing</li>
-  <li>🏏 Cricket fan — love watching the game, even if I don’t play much</li>
-  <li>🌱 Naturally curious, constantly experimenting and improving my skills</li>
-  <li>📚 Focused on building clean, practical projects that actually work</li>
+  <li>🎓 1st-year B.Tech CSE student.</li>
+  <li>🖥️ Exploring frontend development, with plans to dive into full-stack, blockchain, AI/ML, and Web3.</li>
+  <li>🛠 Working with HTML, CSS, JavaScript, C++, and Python.</li>
+  <li>🎧Podcast enthusiast — always learning something new while coding or relaxing.</li>
+  <li>🏏 Cricket fan — love watching the game.</li>
+  <li>🌱 Naturally curious, constantly experimenting and improving my skills.</li>
+  <li>📚Focused on building clean, practical projects that actually work.</li>
 </ul>
 
 
