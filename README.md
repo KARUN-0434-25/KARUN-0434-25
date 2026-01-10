@@ -22,10 +22,6 @@
 
 <h1> Github Stats</h1>
 
-# Hi, I'm Sunshine 👋
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KARUN-0434-25&show_icons=true&theme=radical)
 
-### 🚀 GitHub Stats
-![Sunshine's GitHub stats](https://github-readme-stats.vercel.app/api?username=KARUN-0434-25&show_icons=true&theme=radical)
-
-### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KARUN-0434-25&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KARUN-0434-25&layout=compact&theme=radical)
