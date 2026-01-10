@@ -22,4 +22,4 @@
 
 <h1> Github Stats</h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com/KARUNE-0434-25=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KARUN-0434-25)](https://git.io/streak-stats)
