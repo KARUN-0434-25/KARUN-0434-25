@@ -3,13 +3,13 @@
 <p><h2>Hi, I’m Arunesh 👋</h2></p>
 
 <ul>
-  <li><h4>🎓 1st-year B.Tech CSE student at ABES Engineering College.</h4></li>
-  <li><h4>🖥️ Exploring frontend development, with plans to dive into full-stack, blockchain, AI/ML, and Web3.</h4></li>
-  <li><h4>🛠 Working with HTML, CSS, JavaScript, C++, and Python.</h4></li>
-  <li><h4>🎧Podcast enthusiast — always learning something new while coding or relaxing.</h4></li>
-  <li><h4>🏏 Cricket fan — love watching the game.</h4></li>
-  <li><h4>🌱 Naturally curious, constantly experimenting and improving my skills.</h4></li>
-  <li><h4>📚Focused on building clean, practical projects that actually work.</h4></li>
+  <li>🎓 1st-year B.Tech CSE student at ABES Engineering College.</li>
+  <li>🖥️ Exploring frontend development, with plans to dive into full-stack, blockchain, AI/ML, and Web3.</li>
+  <li>🛠 Working with HTML, CSS, JavaScript, C++, and Python.</li>
+  <li>🎧Podcast enthusiast — always learning something new while coding or relaxing.</li>
+  <li>🏏 Cricket fan — love watching the game.</li>
+  <li>🌱 Naturally curious, constantly experimenting and improving my skills.</li>
+  <li>📚Focused on building clean, practical projects that actually work.</li>
 </ul>
 
 <h1>My Skills</h1>
