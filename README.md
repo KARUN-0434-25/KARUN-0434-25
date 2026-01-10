@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
 
-<h1>Github Stats</h1>
+<h1> Github Stats</h1>
 
 <table><tbody><tr border="none"><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=KARUN-0434-25&theme=dark&show_icons=true&count_private=true">
