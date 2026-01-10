@@ -1,5 +1,4 @@
 ## About Me
-<h2>About Me</h2>
 
 <p>Hi, I’m Arunesh 👋</p>
 
