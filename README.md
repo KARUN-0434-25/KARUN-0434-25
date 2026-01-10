@@ -3,7 +3,7 @@
 <p><h2>Hi, I’m Arunesh 👋</h2></p>
 
 <ul>
-  <li><h4>🎓 1st-year B.Tech CSE student.</h4></li>
+  <li><h4>🎓 1st-year B.Tech CSE student at ABES Engineering College.</h4></li>
   <li><h4>🖥️ Exploring frontend development, with plans to dive into full-stack, blockchain, AI/ML, and Web3.</h4></li>
   <li><h4>🛠 Working with HTML, CSS, JavaScript, C++, and Python.</h4></li>
   <li><h4>🎧Podcast enthusiast — always learning something new while coding or relaxing.</h4></li>
