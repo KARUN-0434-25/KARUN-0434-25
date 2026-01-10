@@ -1,20 +1,20 @@
-## About Me
+<h1>Hi, I’m Arunesh 👋</h1>
 
-<p>Hi, I’m Arunesh 👋</p>
+<p><h2>Hi, I’m Arunesh 👋</h2></p>
 
 <ul>
   <li><h3>🎓 1st-year B.Tech CSE student.</h3></li>
-  <li>🖥️ Exploring frontend development, with plans to dive into full-stack, blockchain, AI/ML, and Web3.</li>
-  <li>🛠 Working with HTML, CSS, JavaScript, C++, and Python.</li>
-  <li>🎧Podcast enthusiast — always learning something new while coding or relaxing.</li>
-  <li>🏏 Cricket fan — love watching the game.</li>
-  <li>🌱 Naturally curious, constantly experimenting and improving my skills.</li>
-  <li>📚Focused on building clean, practical projects that actually work.</li>
+  <li><h3>🖥️ Exploring frontend development, with plans to dive into full-stack, blockchain, AI/ML, and Web3.</h3></li>
+  <li><h3>🛠 Working with HTML, CSS, JavaScript, C++, and Python.</h3></li>
+  <li><h3>🎧Podcast enthusiast — always learning something new while coding or relaxing.</h3></li>
+  <li><h3>🏏 Cricket fan — love watching the game.</h3></li>
+  <li><h3>🌱 Naturally curious, constantly experimenting and improving my skills.</h3></li>
+  <li><h3>📚Focused on building clean, practical projects that actually work.</h3></li>
 </ul>
 
 
 
-## My Skills
+<h1>My Skills</h1>
 
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
 
-## GitHub Stats
+<h1>Github Stats</h1>
 
 <table><tbody><tr border="none"><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=KARUN-0434-25&theme=dark&show_icons=true&count_private=true">
