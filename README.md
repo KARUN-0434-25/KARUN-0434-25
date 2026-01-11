@@ -19,3 +19,4 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KARUN-0434-25&show_icons=true&theme=dark&hide_border=true)
