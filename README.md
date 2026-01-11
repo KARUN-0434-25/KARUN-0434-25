@@ -1,4 +1,4 @@
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=D5E6F5&width=435&lines=%F0%9F%9A%80+About+Me" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=D5E6F5&width=435&lines=%F0%9F%9A%80+About+Me" alt="Typing SVG" /></a>
 <p><h2>Hi, I’m Arunesh 👋</h2></p>
 
 <ul>
