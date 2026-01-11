@@ -20,3 +20,4 @@
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KARUNE-0434-25)
