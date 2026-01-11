@@ -45,4 +45,27 @@
 
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=KARUN-0434-25&theme=dark"></td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=KARUN-0434-25&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Work Progress</title>
+</head>
+<body>
+
+<h2>My Work Progress</h2>
+
+<p>HTML</p>
+<progress value="60" max="100"></progress>
+
+<p>CSS</p>
+<progress value="50" max="100"></progress>
+
+<p>JavaScript</p>
+<progress value="40" max="100"></progress>
+
+<p>C++</p>
+<progress value="70" max="100"></progress>
+
+</body>
+</html>
 
