@@ -20,20 +20,3 @@
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">
 
-<div align="center">
-  <marquee direction="right" scrollamount="8" width="100%">
-    
-    <marquee direction="down" height="200px" scrollamount="3">
-      <ul style="list-style: none; text-align: left; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-        <li>🎓 <b>1st-year B.Tech CSE student</b> at ABES Engineering College.</li>
-        <li>🖥️ <b>Exploring frontend</b>, with plans for Full-stack, Blockchain, AI/ML, and Web3.</li>
-        <li>🛠 <b>Tech Stack:</b> HTML, CSS, JavaScript, C++, and Python.</li>
-        <li>🎧 <b>Podcast enthusiast</b> — always learning something new.</li>
-        <li>🏏 <b>Cricket fan</b> — love watching the game.</li>
-        <li>🌱 <b>Naturally curious</b>, constantly experimenting.</li>
-        <li>📚 <b>Focused on building</b> clean, practical projects.</li>
-      </ul>
-    </marquee>
-
-  </marquee>
-</div>
