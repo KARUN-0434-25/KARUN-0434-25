@@ -20,4 +20,4 @@
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%8E%93+1st-year+B.Tech+CSE+student+at+ABES+Engineering+College." alt="Typing SVG" /></a>
+[![KARUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=KARUN-0434-25)](https://github.com/KARUN-0434-25/github-readme-stats)
