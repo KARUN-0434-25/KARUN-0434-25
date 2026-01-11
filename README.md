@@ -1,5 +1,4 @@
-<h1 align="center" >🚀 About Me</h1>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=D5E6F5&width=435&lines=%F0%9F%9A%80+About+Me" alt="Typing SVG" /></a>
 <p><h2>Hi, I’m Arunesh 👋</h2></p>
 
 <ul>
@@ -19,4 +18,3 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KARUN-0434-25&show_icons=true&theme=dark&hide_border=true)
