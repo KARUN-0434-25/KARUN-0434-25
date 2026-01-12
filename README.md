@@ -55,6 +55,7 @@
   <li>🌱 Naturally curious, constantly experimenting and improving my skills.</li>
   <li>📚Focused on building clean, practical projects that actually work.</li>
 </ul>
+<td><img  src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=KARUN-0434-25&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td>
 </td>
 
 </table>
