@@ -18,8 +18,8 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> -->
-<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=D5E6F5&width=435&lines=%F0%9F%9A%80+About+Me" alt="Typing SVG" /></a>
 <!-- <p><h2>Hey🙋🏼‍♂️ !! I'm Arunesh </h2></p> -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=PT+Serif&weight=700&size=35&duration=5800&pause=1000&color=FDBB6F&repeat=false&width=435&lines=%F0%9F%9A%80+About+Me" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=5800&pause=1000&color=44A1FD&width=435&lines=Hey%F0%9F%99%8B%F0%9F%8F%BC%E2%80%8D%E2%99%82%EF%B8%8F+!!+;I'm+Arunesh+here+!!" alt="Typing SVG" /></a>
 
 <table>
