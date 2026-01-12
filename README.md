@@ -48,7 +48,7 @@
 
 ## My Skills
 
-<table><td><img height="80px" width="20px"src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"></td></table><td></td>
+<table><td><img height="280px" width="120px"src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"></td></table><td></td>
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
