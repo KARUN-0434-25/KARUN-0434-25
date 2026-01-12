@@ -45,3 +45,13 @@
 
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=KARUN-0434-25&theme=dark"></td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=KARUN-0434-25&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+<table>
+<td>🎓 1st-year B.Tech CSE student at ABES Engineering College.</td>
+<td>🖥️ Exploring frontend development, with plans to dive into full-stack, blockchain, AI/ML, and Web3.</td>
+<td>🛠 Working with HTML, CSS, JavaScript, C++, and Python.</td>
+<td>🎧Podcast enthusiast — always learning something new while coding or relaxing.</td>
+<td>🏏 Cricket fan — love watching the game.</td>
+<td>🌱 Naturally curious, constantly experimenting and improving my skills.</td>
+<td>📚Focused on building clean, practical projects that actually work.</td>
+
+</table>
