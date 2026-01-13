@@ -17,9 +17,7 @@
 </table>
 <h1>SKILL's</h1>
 
-<!-- <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">    <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">  -->
-<img src="https://www.readmecodegen.com/api/social-icon?name=html5%2Ccss%2Cjavascript&size=96" alt="html5-css-javascript" />
-<h1></h1>
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">    <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
 
 <table><tbody><tr border="none"><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=KARUN-0434-25&theme=dark&show_icons=true&count_private=true">
