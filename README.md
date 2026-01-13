@@ -33,3 +33,4 @@
   <li>🌱 Naturally curious, constantly experimenting and improving my skills.</li>
   <li>📚Focused on building clean, practical projects that actually work.</li>
 </ul> -->
+<img src="https://komarev.com/ghpvc/?username=sKARUN-0434-25&label=Profile%20views&style=flat" />
