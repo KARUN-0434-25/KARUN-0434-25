@@ -1,5 +1,5 @@
 <!-- intro-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=PT+Serif&weight=700&size=35&duration=5800&pause=1000&color=FDBB6F&repeat=false&width=435&lines=%F0%9F%9A%80+About+Me" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=PT+Serif&weight=700&size=35&duration=5800&pause=1000&color=FDBB6F&repeat=false&width=435&lines=%F0%9F%9A%80+About+Me" alt="Typing SVG" /></a><hr>
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=5800&pause=1000&color=44A1FD&width=435&lines=Hey%F0%9F%99%8B%F0%9F%8F%BC%E2%80%8D%E2%99%82%EF%B8%8F+!!+;I'm+Arunesh+here+!!" alt="Typing SVG" /></a><img align="right" height="100px" src="https://komarev.com/ghpvc/?username=sKARUN-0434-25&label=Profile%20views&style=flat" /> --><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=30&letterSpacing=-1px&duration=3000&pause=1000&color=30B9FD&repeat=false&width=435&lines=Hey+%F0%9F%99%8B%F0%9F%8F%BC%E2%80%8D%E2%99%82%EF%B8%8F!!!;I'm+Arunesh+Here!!!" alt="Typing SVG" /></a>
 
 <!--about-->
