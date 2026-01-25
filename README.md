@@ -35,27 +35,4 @@
 <img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"> 
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">    <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
-
-
-
-## About Me
-
-jjbjjj
-
-## My Skills
-
-<img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"> 
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
-
-## GitHub Stats
-
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=KARUN-0434-25&theme=dark&show_icons=true&count_private=true">
-
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=KARUN-0434-25&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=KARUN-0434-25&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
-
-## Connect with me
-
-<p align="center">🔗 LinkedIn: <a href="none" target="_blank">arunesh</a> Email: none</p>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
