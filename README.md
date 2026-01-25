@@ -51,11 +51,11 @@ jjbjjj
 ## GitHub Stats
 
 <table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=jbj&theme=dark&show_icons=true&count_private=true">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=KARUN-0434-25&theme=dark&show_icons=true&count_private=true">
 
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=jbj&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=jbj&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=KARUN-0434-25&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=KARUN-0434-25&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">John Doe</a> Email: johndoe@gmail.com</p>
+<p align="center">🔗 LinkedIn: <a href="none" target="_blank">arunesh</a> Email: none</p>
