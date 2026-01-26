@@ -32,7 +32,7 @@
 <!--Langusges and tools Using-->
 <h2>Tech Stack </h2>
 
-<img width="500px" height="700px" src="tech-stack.png"></td>
+<img width="900px" height="700px" src="tech-stack.png"></td>
 <td><td><img  src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=KARUN-0434-25&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6">
 
 <img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"> 
