@@ -69,8 +69,9 @@
 <td><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"></td>
 <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"></td>
 <td><img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> </td>
+<td><img  src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=KARUN-0434-25&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td>
 </table>
-<img  src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=KARUN-0434-25&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6">
+
 <!--Git Stats-->
 <table border="none">
 <tbody>
