@@ -32,7 +32,7 @@
 <!--Langusges and tools Using-->
 <h2>Tech Stack </h2>
 
-<img width="900px" height="700px" src="tech-stack.png"></td>
+<img width="900px" height="600px" src="tech-stack.png"></td>
 <td>
 <!-- <img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"> 
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
