@@ -61,6 +61,15 @@
           <li>📚Focused on building clean, practical projects that actually work.</li>
       </ul>
 </table>
+<table>
+<td><img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"> </td>
+<td><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> </td>
+<td><img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"></td>
+<td><img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">  </td>
+<td><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"></td>
+<td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"></td>
+<td><img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> </td>
+</table>
 <img  src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=KARUN-0434-25&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6">
 <!--Git Stats-->
 <table border="none">
@@ -76,8 +85,8 @@
 <!--Langusges and tools Using-->
 <h2>Tech Stack </h2>
 
-<img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"> 
-<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">    <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
+
+
+    
+
 <hr>
