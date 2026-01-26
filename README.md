@@ -63,8 +63,7 @@
 </table>
 <table>
 
-<td><img width="50px" height="30px" src="https://i.pinimg.com/1200x/ac/b3/51/acb3513e5a2664ba59bec11222863a40.jpg"><img width="20px" height="30px"src="https://i.pinimg.com/736x/1e/5d/e3/1e5de38531caaf8131cb0ff91683054a.jpg"><img width="20px" height="30px" src="https://i.pinimg.com/736x/11/a1/fc/11a1fcab8fb20154a3276332e1dcfb86.jpg"><img width="20px" height="30px" src="https://i.pinimg.com/736x/d2/3e/6b/d23e6bbf983e428066748bd19b02051a.jpg"><img width="20px" height="30px" src="https://i.pinimg.com/1200x/fb/1e/7f/fb1e7f9db2540c3194a9179094a925e2.jpg"> <img width="20px" height="30px" src="https://i.pinimg.com/736x/fa/ae/11/faae11a6b87547339411b40ac228d4d7.jpg"> <img width="20px" height="30px" src=""> <img width="20px" height="30px" src="https://i.pinimg.com/1200x/49/9b/1d/499b1d8f955acd1d3ec30f217eddfa2a.jpg">  </td>
-<td><img  src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=KARUN-0434-25&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td>
+<td></td>
 </table>
 
 <!--Git Stats-->
