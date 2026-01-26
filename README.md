@@ -62,7 +62,7 @@
       </ul>
 </table>
 <table>
-<td><img width="50px" height="30px" src="tech-stack.png"></td>
+<td><img width="50%" height="80%" src="tech-stack.png"></td>
 <td><td><img  src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=KARUN-0434-25&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></td>
 </table>
 
