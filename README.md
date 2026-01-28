@@ -1,5 +1,5 @@
 # Hi I'm Arunesh here !
-## 1st-year CSE student, Currently exploring : `HTML` | `CSS` | `JavaScript` | `C++` | `Python` | With plans to dive into full-stack, blockchain, AI/ML, and Web3 | Love to build practical projects 
+## Exploring : `HTML` | `CSS` | `JavaScript` | `C++` | `Python` | With plans to dive into full-stack, blockchain, AI/ML, and Web3 | Love to build practical projects 
 
 <!--------------Langusges and tools Using--------------------------->
 <h2>Tech Stack </h2>
