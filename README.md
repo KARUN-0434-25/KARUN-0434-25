@@ -5,7 +5,7 @@
 <!--about-->
 <table>
     <td>
-      <ul>
+      <!-- <ul>
           <li>🎓 1st-year B.Tech CSE student at ABES Engineering College.</li>
           <li>🖥️ Exploring frontend development, with plans to dive into full-stack, blockchain, AI/ML, and Web3.</li>
           <li>🛠 Working with HTML, CSS, JavaScript, C++, and Python.</li>
@@ -13,7 +13,8 @@
           <li>🏏 Cricket fan — love watching the game.</li>
           <li>🌱 Naturally curious, constantly experimenting and improving my skills.</li>
           <li>📚Focused on building clean, practical projects that actually work.</li>
-      </ul>
+      </ul> -->
+      <h3 color="">First-year B.TECH. CSE student | Frontend developer | HTML, CSS, JavaScript, C++, Python | Exploring full-stack, AI/ML, Blockchain | Podcast lover | Cricket fan | Building practical projects</h3>
 <td><img  src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=KARUN-0434-25&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td>
 </td>
 </table>
