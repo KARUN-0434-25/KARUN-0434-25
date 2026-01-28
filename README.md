@@ -7,7 +7,7 @@
 <!--about-->
 <!-- <table>
     <td> -->
-      <!-- <ul>
+<!-- <ul>
           <li>🎓 1st-year B.Tech CSE student at ABES Engineering College.</li>
           <li>🖥️ Exploring frontend development, with plans to dive into full-stack, blockchain, AI/ML, and Web3.</li>
           <li>🛠 Working with HTML, CSS, JavaScript, C++, and Python.</li>
