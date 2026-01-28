@@ -2,6 +2,7 @@
 ### Exploring : `HTML` | `CSS` | `JavaScript` | `C++` | `Python` | With plans to dive into full-stack, blockchain, AI/ML, and Web3 | Love to build practical projects 
 <hr>
 <!--------------Langusges and tools Using--------------------------->
+
 # Tech Stack
 
 <img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
