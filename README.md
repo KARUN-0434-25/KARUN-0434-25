@@ -15,7 +15,7 @@
           <li>📚Focused on building clean, practical projects that actually work.</li>
       </ul> -->
       <h3 color="">First-year B.TECH. CSE student | Frontend developer | HTML, CSS, JavaScript, C++, Python | Exploring full-stack, AI/ML, Blockchain | Podcast lover | Cricket fan | Building practical projects</h3>
-<td><img  src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=KARUN-0434-25&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td>
+<!-- <td><img  src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=KARUN-0434-25&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td> -->
 </td>
 </table>
 
