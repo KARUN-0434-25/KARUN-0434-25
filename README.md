@@ -1,6 +1,6 @@
-## Hi I'm Arunesh here !
+## Hi I'm Arunesh here !<img align="right" height="100px" src="https://komarev.com/ghpvc/?username=sKARUN-0434-25&label=Profile%20views&style=flat" /><a href="https://git.io/typing-svg">
 ### Exploring : `HTML` | `CSS` | `JavaScript` | `C++` | `Python` | With plans to dive into full-stack, blockchain, AI/ML, and Web3 | Love to build practical projects 
-
+<hr>
 <!--------------Langusges and tools Using--------------------------->
 # Tech Stack
 
