@@ -3,6 +3,7 @@
 <img align="right" height="100px" src="https://komarev.com/ghpvc/?username=sKARUN-0434-25&label=Profile%20views&style=flat" /><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=30&letterSpacing=-1px&duration=3000&pause=1000&color=30B9FD&repeat=false&width=435&lines=Hey+%F0%9F%99%8B%F0%9F%8F%BC%E2%80%8D%E2%99%82%EF%B8%8F!!!;I'm+Arunesh+Here!!!" alt="Typing SVG" /></a>
 
 ### First-year B.TECH. CSE student | Frontend developer | 'HTML', CSS, JavaScript, C++, Python | Exploring full-stack, AI/ML, 'Blockchain' | Podcast lover | Cricket fan | Building practical projects
+1st-year CSE student | Frontend developer | Skills: `HTML` | `CSS` | `JavaScript` | `C++` | `Python` | Exploring full-stack, AI/ML & Web3 | Podcast lover | Cricket fan | Building practical projects
 
 <!--about-->
 <!-- <table>
