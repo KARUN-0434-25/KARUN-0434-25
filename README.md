@@ -1,4 +1,4 @@
-# Hi I'm Arunesh here !<img align="right" height="100px" src="https://komarev.com/ghpvc/?username=sKARUN-0434-25&label=Profile%20views&style=flat" /><a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1001&color=64F7E8&repeat=false&width=435&lines=Hey+%2C+I+am+Arunesh+here+!" alt="Typing SVG" /></a><img align="right" height="100px" src="https://komarev.com/ghpvc/?username=sKARUN-0434-25&label=Profile%20views&style=flat" /><a href="https://git.io/typing-svg">
 ### Exploring : `HTML` | `CSS` | `JavaScript` | `C++` | `Python` | With plans to dive into full-stack, blockchain, AI/ML, and Web3 | Love to build practical projects 
 <hr>
 <!--------------Langusges and tools Using--------------------------->
