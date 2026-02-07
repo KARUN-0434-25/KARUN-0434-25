@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
 
 <!----------------------Git Stats---------------------------------->
-<table border="none">
+<!-- <table border="none">
 <tbody>
 <tr border="none"><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=KARUN-0434-25&theme=dark&show_icons=true&count_private=true">
@@ -16,7 +16,7 @@
 </td>
 </tr>
 </tbody>
-</table>
+</table> -->
 
 <!-- intro-->
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=PT+Serif&weight=700&size=35&duration=5800&pause=1000&color=FDBB6F&repeat=false&width=435&lines=%F0%9F%9A%80+About+Me" alt="Typing SVG" /></a> -->
