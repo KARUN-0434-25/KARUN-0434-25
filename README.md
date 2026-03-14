@@ -10,12 +10,14 @@
 <!----------------------Git Stats---------------------------------->
 <table border="none">
 <a href="https://github.com/KARUN-0434-25">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KARUN-0434-25&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="KARUN-0434-25's GitHub Stats" />
+    
   </a>
 <tbody>
 <tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=KARUN-0434-25&theme=dark&show_icons=true&count_private=true">
-</td><td width="50%" align="center"><img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=KARUN-0434-25&theme=dark">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KARUN-0434-25&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="KARUN-0434-25's GitHub Stats" />
+<!-- <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=KARUN-0434-25&theme=dark&show_icons=true&count_private=true">
+</td><td width="50%" align="center">-->
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=KARUN-0434-25&theme=dark">
 </td>
 </tr>
 </tbody>
