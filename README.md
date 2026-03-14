@@ -8,20 +8,30 @@
 <!-- <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=orange"> <img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white"> <img src="https://img.shields.io/badge/Cloud-4285F4?logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/Secure%20Architecture-2C2C2C?logo=securityscorecard&logoColor=white"> -->
 
 <!----------------------Git Stats---------------------------------->
-<table border="none">
-<a href="https://github.com/KARUN-0434-25">
-    
-  </a>
+<table>
 <tbody>
-<tr border="none"><td width="50%" align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KARUN-0434-25&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="KARUN-0434-25's GitHub Stats" /><img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=KARUN-0434-25&theme=dark">
-<!-- <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=KARUN-0434-25&theme=dark&show_icons=true&count_private=true">
-</td><td width="50%" align="center">-->
+<tr>
+<td width="50%" align="center">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KARUN-0434-25&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="KARUN-0434-25's GitHub Stats" />
+</td>
 
+<td width="50%" align="center">
+<img height="180em" src="https://github-readme-streak-stats-five-roan.vercel.app?user=KARUN-0434-25&theme=dark" alt="Mark streak" />
 </td>
 </tr>
 </tbody>
 </table>
+<!-- <table border="none">
+<tbody>
+<tr border="none"><td width="50%" align="center">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KARUN-0434-25&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="KARUN-0434-25's GitHub Stats" /><img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=KARUN-0434-25&theme=dark">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=KARUN-0434-25&theme=dark&show_icons=true&count_private=true">
+</td><td width="50%" align="center">
+
+</td>
+</tr>
+</tbody>
+</table> -->
 
 <!-- intro-->
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=PT+Serif&weight=700&size=35&duration=5800&pause=1000&color=FDBB6F&repeat=false&width=435&lines=%F0%9F%9A%80+About+Me" alt="Typing SVG" /></a> -->
