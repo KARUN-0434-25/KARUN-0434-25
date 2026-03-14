@@ -1,14 +1,57 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1001&color=FD8920&repeat=false&width=435&lines=Hey+%2C+I+am+Arunesh+here+!" alt="Typing SVG" /></a><img align="right" height="100px" src="https://komarev.com/ghpvc/?username=sKARUN-0434-25&label=Profile%20views&style=flat" /><a href="https://git.io/typing-svg">
+
+# 💻 Tech Stack:
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KARUN-0434-25&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KARUN-0434-25&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KARUN-0434-25&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=KARUN-0434-25&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1001&color=FD8920&repeat=false&width=435&lines=Hey+%2C+I+am+Arunesh+here+!" alt="Typing SVG" /></a><img align="right" height="100px" src="https://komarev.com/ghpvc/?username=sKARUN-0434-25&label=Profile%20views&style=flat" /><a href="https://git.io/typing-svg">
 ### Exploring : `HTML` | `CSS` | `JavaScript`| `TypeScript` | `C++` | `Python` | With plans to dive into full-stack, blockchain, AI/ML, and Web3 | Love to build practical projects 
-<hr>
+<hr>  -->
 <!--------------Langusges and tools Using--------------------------->
 
-
-<img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"> 
+<!-- 
+<img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">   -->
 <!-- <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=orange"> <img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white"> <img src="https://img.shields.io/badge/Cloud-4285F4?logo=googlecloud&logoColor=white"> <img src="https://img.shields.io/badge/Secure%20Architecture-2C2C2C?logo=securityscorecard&logoColor=white"> -->
 
 <!----------------------Git Stats---------------------------------->
-<table border="none">
+<!-- <table border="none">
 <tbody>
 <tr border="none"><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=KARUN-0434-25&theme=dark&show_icons=true&count_private=true">
@@ -16,7 +59,7 @@
 </td>
 </tr>
 </tbody>
-</table>
+</table> -->
 
 <!-- intro-->
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=PT+Serif&weight=700&size=35&duration=5800&pause=1000&color=FDBB6F&repeat=false&width=435&lines=%F0%9F%9A%80+About+Me" alt="Typing SVG" /></a> -->
