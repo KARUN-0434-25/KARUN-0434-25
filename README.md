@@ -21,17 +21,10 @@
 </tr>
 </tbody>
 </table>
-<!-- <table border="none">
-<tbody>
-<tr border="none"><td width="50%" align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KARUN-0434-25&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="KARUN-0434-25's GitHub Stats" /><img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=KARUN-0434-25&theme=dark">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=KARUN-0434-25&theme=dark&show_icons=true&count_private=true">
-</td><td width="50%" align="center">
 
-</td>
-</tr>
-</tbody>
-</table> -->
+
+
+
 
 <!-- intro-->
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=PT+Serif&weight=700&size=35&duration=5800&pause=1000&color=FDBB6F&repeat=false&width=435&lines=%F0%9F%9A%80+About+Me" alt="Typing SVG" /></a> -->
