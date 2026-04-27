@@ -1,67 +1,86 @@
-<h1 align="center">👋 Hey Everyone, I'm Arunesh!</h1>
-
+<!-- 🔥 Typing Animation -->
 <p align="center">
-💻 Passionate Developer | 🌱 Lifelong Learner | 🚀 Tech Enthusiast
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=39FF14&center=true&vCenter=true&width=600&lines=Hey+Everyone!+I'm+Arunesh;Passionate+Developer;Lifelong+Learner;Building+Cool+Projects+🚀" />
 </p>
 
 ---
 
-### 🔎 About Me
+<!-- 👋 Intro -->
+<h2 align="center">👋 Welcome to My GitHub Universe</h2>
 
-- 🔭 I’m currently working on awesome projects  
-- 🌱 I’m currently learning new technologies  
-- 💬 Ask me about C++, Java, Web Development  
-- 📫 Reach me: arunesh@example.com  
-- ⚡ Fun fact: I debug with console.log() and hope  
+<p align="center">
+💻 Developer | 🌱 Learning Everyday | ⚡ Building Real Projects
+</p>
 
 ---
 
-### 🌐 Connect with Me
-
+<!-- 🌐 Socials -->
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/></a>
 </p>
 
 ---
 
-### 📊 My GitHub Statistics
+<!-- 🧠 About -->
+### 🧠 About Me
+
+- 🔭 Working on **awesome projects**
+- 🌱 Learning **new technologies daily**
+- 💬 Ask me about **C++, Java, Web Dev**
+- ⚡ Fun fact: *console.log() is my best friend*
+
+---
+
+<!-- 🧰 Tech Stack -->
+### 🧰 Tech Stack
 
 <p align="center">
-<img width="80%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KARUN-0434-25&theme=dark&show_icons=true"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,git,github" />
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+<!-- 📊 Stats -->
+### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KARUN-0434-25&theme=dark"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=KARUN-0434-25&show_icons=true&theme=radical&border_radius=10" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KARUN-0434-25&theme=radical&border_radius=10" />
 </p>
 
 ---
 
+<!-- 📈 Graph -->
 ### 📈 Contribution Graph
 
 <p align="center">
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=KARUN-0434-25&bg_color=0a0f0b&color=39ff14&line=39ff14&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KARUN-0434-25&theme=react-dark&area=true&hide_border=true" width="95%"/>
 </p>
 
 ---
 
-### 🧰 Languages & Tools
+<!-- 🏆 Trophies -->
+### 🏆 Achievements
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css,react,nodejs,git,github"/>
+<img src="https://github-profile-trophy.vercel.app/?username=KARUN-0434-25&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+<!-- 🐍 Snake Animation -->
+### 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KARUN-0434-25&theme=darkhub&no-frame=true&row=1&column=6"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<!-- 💡 Footer -->
+<p align="center">
+✨ Building. Learning. Growing. 🚀
 </p>
