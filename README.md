@@ -25,7 +25,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=KARUN-0434-25&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KARUN-0434-25&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="KARUN-0434-25's GitHub Stats" />
 </p>
 
 ---
