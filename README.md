@@ -10,19 +10,15 @@
 
 
 <!----------------------Git Stats---------------------------------->
-<table>
-<tbody>
-<tr>
-<td width="50%" align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KARUN-0434-25&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" />
-</td>
+<div align="center">
 
-<td width="50%" align="center">
-<img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=KARUN-0434-25&bg_color=0a0f0b&color=f6f8fa&line=abd200&point=f6f8fa&area=true&hide_border=true" />
-</td>
-</tr>
-</tbody>
-</table>
+<img width="90%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KARUN-0434-25&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" />
+
+<br><br>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=KARUN-0434-25&bg_color=0a0f0b&color=f6f8fa&line=abd200&point=f6f8fa&area=true&hide_border=true" />
+
+</div>
 
 <!-- <table>
 <tbody>
