@@ -14,12 +14,27 @@
 <tbody>
 <tr>
 <td width="50%" align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KARUN-0434-25&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="KARUN-0434-25's GitHub Stats" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KARUN-0434-25&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" />
 </td>
 
 <td width="50%" align="center">
-<img height="180em" src="https://github-readme-streak-stats-five-roan.vercel.app?user=KARUN-0434-25&theme=dark" alt="Mark streak" />
+<img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=KARUN-0434-25&bg_color=0a0f0b&color=f6f8fa&line=abd200&point=f6f8fa&area=true&hide_border=true" />
 </td>
 </tr>
 </tbody>
 </table>
+
+<!-- <table>
+<tbody>
+<tr>
+<td width="50%" align="center">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KARUN-0434-25&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="KARUN-0434-25's GitHub Stats" />
+</td>
+
+<td width="50%" align="center">
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KARUN-0434-25&bg_color=0a0f0b&color=f6f8fa&line=abd200&point=f6f8fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img height="180em" src="https://github-readme-streak-stats-five-roan.vercel.app?user=KARUN-0434-25&theme=dark" alt="Mark streak" />
+</td>
+</tr>
+</tbody>
+</table> -->
