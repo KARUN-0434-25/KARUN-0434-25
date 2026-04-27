@@ -38,13 +38,13 @@
 
 ---
 
-### 🌐 Connect
+<!-- ### 🌐 Connect
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Gmail-181717?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-181717?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Instagram-181717?style=flat&logo=instagram&logoColor=white"/></a>
-</p>
+</p> -->
 
 ---
 
